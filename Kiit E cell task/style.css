@@ -40,11 +40,25 @@ body {
 
 /* Subtext Styling */
 .subtext {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     margin-bottom: 25px;
     line-height: 1.6;
 }
+/* image of kiit logo */
+.kiit-logo {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+    filter: drop-shadow(2px 4px 6px white);
+}
 
+/* image of e cell */
+.hero-logo {
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+    filter: drop-shadow(2px 4px 6px white);
+}
 /* CTA Button Styling */
 .cta-button {
     display: inline-block;
